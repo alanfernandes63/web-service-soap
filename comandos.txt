@@ -1,0 +1,4 @@
+javac calc/*.java
+javac calc/CalculadoraServerPublisher.java
+java calc.CalculadoraServerPublisher
+java calc.CalculadoraClient
